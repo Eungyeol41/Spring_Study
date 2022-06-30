@@ -5,3 +5,4 @@
 ### Project1. Sport
 - Spring Project 우선 생성하기
 - MySQL DB 연동하기
+- 3가지 폴더 생성 예정
