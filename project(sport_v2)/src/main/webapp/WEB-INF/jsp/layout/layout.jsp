@@ -12,7 +12,7 @@
 		<meta name="format-detection" content="telephone=no">
 		<title>GJU - SPORT</title>
 		<script src="https://code.jquery.com/jquery-latest.min.js"></script>
-		<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/publish/css/main.css">
+<%--		<link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/webapp/publish/css/main.css">--%>
 	</head>
 	<body>
 		<div id="wrapper">

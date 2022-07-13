@@ -9,8 +9,13 @@ public class ListController {
 	/** folderPath **/
 	private final static String folderPath = "/list/";
 
-	@RequestMapping(value = folderPath + "/list.do")
+	@RequestMapping(value = folderPath + "list.do")
 	public String list() {
-		return ".sport:/" + folderPath + "list";
+		return ".sport:" + folderPath + "list";
+	}
+
+	@RequestMapping(value = folderPath + "addList.do")
+	public String addList() {
+		return folderPath + "addList";
 	}
 }
